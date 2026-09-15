@@ -1,0 +1,4 @@
+{
+  "code": "helper_sandbox_lock_failed",
+  "message": "lock sandbox bin dir C:\\Users\\Ari Carson\\.codex\\.sandbox-bin failed: SetNamedSecurityInfoW sandbox dir failed: 5"
+}
